@@ -1,0 +1,6 @@
+- <reverse_me_and_jsteg.ext xxd -p -c1 | tac | xxd -p -r > hinh.png
+- foremost -v hinh.png có dc 1 file jpg
+- đề hint là jsteg nên search và có được tool sau: jstego-0.3.jar
+- File > Seek > import file jpg vào và nhận được 1 file: flag.mp3
+- dùng Sonic Visualiser > Layer > Add Spectrogram > có flag
+PTITCTF{JPG_sT3g4_c001}
