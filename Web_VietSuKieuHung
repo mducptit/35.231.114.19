@@ -1,0 +1,7 @@
+- Mình thử trả lời các câu hỏi đầu và thấy được id thay đổi
+- Mình trả lời đến câu số 6 thì cái input nó disable
+- Enable nó lên trả lời đúng vẫn bị quay lại
+- Mình đã nghĩ đến một giải pháp đơn giản hơn: thử cho id là một số nguyên đã encode dạng md5
+- Tiếp theo là cứ thử dần
+- Cuối cùng tìm ra id = 10 là xong.
+PISCTF{C0n_R0ng_Chau_T1en}
