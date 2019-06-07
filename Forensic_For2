@@ -1,0 +1,24 @@
+- Search: tcp.stream eq 163
+- Chọn follow bừa 1 gói tin http stream
+- Check output thấy nội dung
+------WebKitFormBoundaryqWRCmBRYJQBsD69Z
+Content-Disposition: form-data; name="__VIEWSTATEGENERATOR"
+
+CA0B0334
+------WebKitFormBoundaryqWRCmBRYJQBsD69Z
+Content-Disposition: form-data; name="ctl00$ContentPlaceHolder1$ctl00$ucDangNhap$txtTaiKhoa"
+
+n15dcat041
+------WebKitFormBoundaryqWRCmBRYJQBsD69Z
+Content-Disposition: form-data; name="ctl00$ContentPlaceHolder1$ctl00$ucDangNhap$txtMatKhau"
+
+kEXU5nUk4ANKJ88jGXhWHNNh7Ws9jMdGnMRdSKn9DNithDwEFpiUd5G3qRjsnW6a
+------WebKitFormBoundaryqWRCmBRYJQBsD69Z
+Content-Disposition: form-data; name="ctl00$ContentPlaceHolder1$ctl00$ucDangNhap$btnDangNhap"
+
+....ng Nh...p
+------WebKitFormBoundaryqWRCmBRYJQBsD69Z--
+
+- md5(n15dcat041:kEXU5nUk4ANKJ88jGXhWHNNh7Ws9jMdGnMRdSKn9DNithDwEFpiUd5G3qRjsnW6a)
+
+PISCTF{cbac0deb0300e026aba1d36e19bc6935}
